@@ -1,0 +1,3 @@
+emoji
+pymongo
+python-telegram-bot
